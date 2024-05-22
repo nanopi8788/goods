@@ -5,7 +5,7 @@ body{
 .header{
     background-color: #f6fcc5;
     height: 150px;
-    width: 1170px;
+    width: 1920px;
 }
 
 *{
@@ -16,11 +16,11 @@ body{
 .main{
     background-color: #f6fcc5;
     height: 1000px;
-    width: 1170px;
+    width: 1920px;
 }
 
 .footer{
     background-color: #eaf188;
     height: 150px;
-    width: 1170px;
+    width: 1920px;
 }
