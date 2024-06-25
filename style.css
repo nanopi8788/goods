@@ -19,6 +19,10 @@ body{
     width: 1920px;
 }
 
+p{
+  font-weight: bold;
+}
+
 .footer{
     background-color: #eaf188;
     height: 150px;
