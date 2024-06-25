@@ -23,13 +23,19 @@ ul {
   display: flex;
 }
 
+h1 {
+  display: flex;
+}
+
 h2{
   font-weight: bold;
+  display: flex;
 }
 
 button{
     width: 150em;
     height:50em;
+    display: flex;
 }
 
 .footer{
