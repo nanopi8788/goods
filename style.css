@@ -19,6 +19,10 @@ body{
     width: 1920px;
 }
 
+ul {
+  display: flex;
+}
+
 p{
   font-weight: bold;
 }
